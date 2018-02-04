@@ -1,6 +1,6 @@
 # Survey Application
 ### Purpose: 
-* The purpose of this applicatin is for taking a survey.
+* The purpose of this application is for taking a survey.
 ### Abilities: 
 * The app has the ability to take, edit, and analyze the survey.
 ### Database: 
