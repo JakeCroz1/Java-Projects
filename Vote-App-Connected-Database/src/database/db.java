@@ -63,9 +63,8 @@ public String asignA = new String();
 
 		    // Connect to a database
 		     connection = DriverManager.getConnection
-		    		
-		      //("jdbc:mysql://kronos.gtc.edu/jcrosby_form" , "jcrosby", "gtc1398");
-		    ("jdbc:mysql://kronos.gtc.edu/jcrosby_SurveyDB", "jcrosby", "gtc1398");
+		  
+		    ("jdbc:mysql://kronos.gtc.edu/jcrosby_SurveyDB", "UserName", "Password");
 		     conDB = "Database connected";
 		    System.out.println("Database connected");
 		    
